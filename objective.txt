@@ -1,0 +1,8 @@
+1. Create an A.I. model that can play flappy bird and improve
+2. Use Reinforcement Learning:
+State Space: Define the state representation 
+(e.g., bird's position, velocity, distance to the next pipe).
+Action Space: Define the possible actions (e.g., flap or no flap).
+Reward Function: Design a reward function 
+(e.g., +1 for passing a pipe, -100 for 
+hitting a pipe, +0.1 for staying alive).
